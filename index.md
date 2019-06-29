@@ -70,5 +70,5 @@ Undergraduate major in electronics, with a good foundation in electronics and ma
 - e-mail:zxd921982351@gmail.com
 
 ## my life
-[View my life](life.md)
-[Major Events](Major Events.md)
+- [View my life](life.md)      
+- [Major Events](Major Events.md)
