@@ -64,3 +64,7 @@ Undergraduate major in electronics, with a good foundation in electronics and ma
 ## Disadvantage
 - 计算机的一些基本课程还欠缺
 - 英语口语发音不准
+
+## how to contact me
+- wechat：zxd921982351
+- e-mail:zxd921982351@gmail.com
