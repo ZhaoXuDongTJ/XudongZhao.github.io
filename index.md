@@ -71,4 +71,4 @@ Undergraduate major in electronics, with a good foundation in electronics and ma
 
 ## my life
 - [View my life](life.md)      
-- [Major Events](Major Events.md)
+- [Major Events](MajorEvents.md)
