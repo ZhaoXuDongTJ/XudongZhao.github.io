@@ -68,3 +68,6 @@ Undergraduate major in electronics, with a good foundation in electronics and ma
 ## how to contact me
 - wechat：zxd921982351
 - e-mail:zxd921982351@gmail.com
+
+## my life
+[View my life](life.md)
