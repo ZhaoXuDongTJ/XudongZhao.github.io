@@ -72,3 +72,7 @@ Undergraduate major in electronics, with a good foundation in electronics and ma
 ## my life
 - [View my life](life.md)      
 - [Major Events](MajorEvents.md)
+
+## Blog
+- [computer science](blog/blog-cs.md)
+- [Thinking](blog/blog-think.md)
