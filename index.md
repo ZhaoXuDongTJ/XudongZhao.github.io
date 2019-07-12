@@ -76,3 +76,6 @@ Undergraduate major in electronics, with a good foundation in electronics and ma
 ## Blog
 - [computer science](blog/blog-cs.md)
 - [Thinking](blog/blog-think.md)
+
+## Course
+- [C language]()
