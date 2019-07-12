@@ -78,4 +78,4 @@ Undergraduate major in electronics, with a good foundation in electronics and ma
 - [Thinking](blog/blog-think.md)
 
 ## Course
-- [C language]()
+- [C language]('course\clanguage\c_index.md')
