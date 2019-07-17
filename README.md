@@ -1,9 +1,9 @@
 # XudongZhao.github.io
-blog by xudongzhao
+blog by xudong-zhao
 
-[个人简历](https://zhaoxudongtj.github.io/XudongZhao.github.io/)
+[resume](https://zhaoxudongtj.github.io/XudongZhao.github.io/)
 
-联系我：
+Contact me:
 
-- wechat：zxd921982351
-- email：z13072218259@163.com
+- wechat:zxd921982351
+- email:z13072218259@163.com

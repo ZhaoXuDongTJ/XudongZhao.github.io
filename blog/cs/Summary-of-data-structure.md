@@ -1,5 +1,5 @@
 # Summary
-总结一些有用的，优质的博客
-# 数据结构
-## 排序
-- [十大经典排序算法（动图演示）](https://www.cnblogs.com/onepixel/p/7674659.html)
+Summarize some useful, high-quality blogs
+# data structure
+## sort
+- [Top Ten Classical Sorting Algorithms (Motion Map Demonstration)](https://www.cnblogs.com/onepixel/p/7674659.html)

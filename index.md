@@ -1,4 +1,4 @@
-## Welcome to XudongZhao Pages
+## Welcome to Xudong-Zhao Pages
 
 ## resume
 Undergraduate major in electronics, with a good foundation in electronics and mathematics, is good at solving problems with computers, participating in more mathematical modeling competitions, has basic modeling ideas, and has basic model abstraction capabilities.I have been exposed to the basic knowledge of machine learning, and have a great interest. Combining the situation of South University of Science and Technology and my current direction of interest, the next generation of wireless networks and pervasive computing are the main directions of research.
@@ -6,33 +6,27 @@ Undergraduate major in electronics, with a good foundation in electronics and ma
 ## experience
 
 ## School honor — 2016-just now
-- 2016-2017 新生二等奖学金
-- 2016-2017 人民奖学金二等奖及校三好学生
-- 2017-2018 人民奖学金二等奖及校三好学生
-- 2016“明理杯”创新创意竞赛铜奖
-- 2018年青年马克思主义培训工程 优秀学员
-- 2018“容创· 智行杯”优秀奖
+- 2016-2017 Second-class scholarship for Freshmen
+- 2016-2017 Second Prize of People's Scholarship and Three Good Students
+- 2017-2018 Second Prize of People's Scholarship and Three Good Students
 
 ## Electronic competition — 2016-just now
-- 2017年大唐移动举办“大唐杯”：无奖
-- 2018年北邮举办的“通信无线对抗赛”三等奖，
+- 2018 Communication Wireless Match: Third Award
 
 ## Mathematical modeling — 2016-just now
-- 2018年南科大举办的“深圳杯”数学建模挑战赛：优秀论文
-- 2018年全国大学生数学建模竞赛：天津市一等奖
-- 2019年美国大学生数学建模竞赛：成功参赛
+- 2018 Shenzhen Cup: Excellent Papers
+- 2018 National College Students Mathematical Modeling Competition: Tianjin First Prize
+- 2019 American University Mathematical Modeling Competition: S
 
 ## Computer competitions and events — 2016-just now
-- 2017第十四届挑战杯“老吾老”天津市二等奖
-- 2017年中软国际“基于h5的电子商城设计与开发”优秀个人 与 优秀团队
-- 2018年华北五省及港澳台大学生计算机应用大赛“约吧邦霸”：一等奖
+- 2018 Five Provinces of North China: The first prize
 
 ## other activities — 2016-just now
 - 2018网易新闻：青媒计划：优秀学员
 - 2018青团社&订单来了：一日CEO助理
 
 ## paper
-- 无线回传基站拓扑规划模型建立 “2018深圳杯”
+- Establishment of Topology Planning Model for Wireless Return Base Station: Shenzhen Cup
 - 基于误差限值的电能表状态检测与评分 “天津理工大学数学建模比赛”
 - The Evacuation Strategies Based on SPFA “2019年美国大学生数学建模”
 - 高温作业专用服装设计 “CUMCM-2018-Problem-A-Chinese”一等奖
@@ -51,9 +45,8 @@ Undergraduate major in electronics, with a good foundation in electronics and ma
 
 ## skill
 - C/C++/Java
-- Python/Matlab
+- Python/ Matlab
 - 前端开发+Python后端
-- 电子信息专业英语
 
 ## advantage
 - 工程实现能力强

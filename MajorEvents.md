@@ -1,31 +1,30 @@
 ## 1997
-出生
+Birth
 
 ## 2010
-- 9月
-进入实验小学
+- September
+Enter Experimental Primary School
 
 ## 2013
-- 9月
-进入实验中学
+- September
+Enter the experimental middle school
 
 ## 2016
-- 6月
-高考
+- June
+College entrance examination
 
-- 9月
-上大学：[天津理工大学](http://www.tjut.edu.cn/)
+- September
+Go to University:[TJUT](http://www.tjut.edu.cn/)
 
-- 10月
-进入了一个非常重要的学生组织：115
+- October
+Entering a very important student organization:115
 
 ## 2017
 
 ## 2018
 
 ## 2019
-- 6月
-入选了[南方科技大学](https://www.sustech.edu.cn/)的夏令营
+- June
+Selected[Southern University of Science and Technology](https://www.sustech.edu.cn/)Summer camp
 
 ## 2020
-
