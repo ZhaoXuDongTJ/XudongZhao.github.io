@@ -73,3 +73,4 @@ Undergraduate major in electronics, with a good foundation in electronics and ma
 
 ## Course
 - [C language](course/clanguage/c_index.md)
+- [Data structure](course/ds/ds.md)
