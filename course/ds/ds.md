@@ -8,4 +8,4 @@ Give an example:
 - Merge List: Lc = La and Lb
 
 # coding
-- [linear-list-array]()
+- [linear-list-array](coding/linear-list-array.md)
